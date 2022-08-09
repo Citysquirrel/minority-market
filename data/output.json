@@ -1,0 +1,168 @@
+{
+  "Base": {
+    "default": {
+      "value": "#5d9cec",
+      "type": "color",
+      "description": "Light Blue, My Favorite"
+    },
+    "tint01": {
+      "value": "#74aaee",
+      "type": "color"
+    },
+    "tint02": {
+      "value": "#8bb8f1",
+      "type": "color"
+    },
+    "tint03": {
+      "value": "#a2c6f4",
+      "type": "color"
+    },
+    "tint04": {
+      "value": "#b9d4f6",
+      "type": "color"
+    },
+    "tint05": {
+      "value": "#d0e2f9",
+      "type": "color"
+    },
+    "tint06": {
+      "value": "#e7f0fc",
+      "type": "color"
+    },
+    "tp00": {
+      "value": "#5d9cec99",
+      "type": "color",
+      "description": "Light Blue, My Favorite"
+    },
+    "tp01": {
+      "value": "#74aaee99",
+      "type": "color"
+    },
+    "tp02": {
+      "value": "#8bb8f199",
+      "type": "color"
+    },
+    "tp03": {
+      "value": "#a2c6f499",
+      "type": "color"
+    },
+    "tp04": {
+      "value": "#b9d4f699",
+      "type": "color"
+    },
+    "tp05": {
+      "value": "#d0e2f999",
+      "type": "color"
+    },
+    "tp06": {
+      "value": "#e7f0fc99",
+      "type": "color"
+    }
+  },
+  "Gray": {
+    "default": {
+      "value": "#141414",
+      "type": "color"
+    },
+    "tint01": {
+      "value": "#353535",
+      "type": "color"
+    },
+    "tint02": {
+      "value": "#575757",
+      "type": "color"
+    },
+    "tint03": {
+      "value": "#787878",
+      "type": "color"
+    },
+    "tint04": {
+      "value": "#9a9a9a",
+      "type": "color"
+    },
+    "tint05": {
+      "value": "#bbb",
+      "type": "color"
+    },
+    "tint06": {
+      "value": "#ddd",
+      "type": "color"
+    }
+  },
+  "Accent": {
+    "default": {
+      "value": "#ecac5d",
+      "type": "color"
+    },
+    "tint01": {
+      "value": "#eeb774",
+      "type": "color"
+    },
+    "tint02": {
+      "value": "#f1c38b",
+      "type": "color"
+    },
+    "tint03": {
+      "value": "#f4cfa2",
+      "type": "color"
+    },
+    "tint04": {
+      "value": "#f6dbb9",
+      "type": "color"
+    },
+    "tint05": {
+      "value": "#f9e7d0",
+      "type": "color"
+    },
+    "tint06": {
+      "value": "#fcf3e7",
+      "type": "color"
+    }
+  },
+  "spoqa neo": {
+    "value": "Spoqa Han Sans Neo",
+    "type": "fontFamilies"
+  },
+  "Shadow": {
+    "header": {
+      "value": {
+        "x": 0,
+        "y": 2,
+        "blur": 2,
+        "spread": 0,
+        "color": "#00000029",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
+    },
+    "big box": {
+      "value": [
+        {
+          "color": "#0000001f",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 3,
+          "blur": 6,
+          "spread": -4
+        },
+        {
+          "color": "#00000014",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 6,
+          "blur": 16,
+          "spread": 0
+        },
+        {
+          "color": "#0000000d",
+          "type": "dropShadow",
+          "x": 0,
+          "y": 9,
+          "blur": 28,
+          "spread": 8
+        }
+      ],
+      "type": "boxShadow"
+    }
+  }
+}

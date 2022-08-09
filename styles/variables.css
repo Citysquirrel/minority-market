@@ -1,0 +1,5 @@
+:root {
+  /* color */
+  --base-default: #5d9cec;  --base-tint01: #74aaee;  --base-tint02: #8bb8f1;  --base-tint03: #a2c6f4;  --base-tint04: #b9d4f6;  --base-tint05: #d0e2f9;  --base-tint06: #e7f0fc;  --base-tp00: #5d9cec99;  --base-tp01: #74aaee99;  --base-tp02: #8bb8f199;  --base-tp03: #a2c6f499;  --base-tp04: #b9d4f699;  --base-tp05: #d0e2f999;  --base-tp06: #e7f0fc99;  --gray-default: #141414;  --gray-tint01: #353535;  --gray-tint02: #575757;  --gray-tint03: #787878;  --gray-tint04: #9a9a9a;  --gray-tint05: #bbb;  --gray-tint06: #ddd;  --accent-default: #ecac5d;  --accent-tint01: #eeb774;  --accent-tint02: #f1c38b;  --accent-tint03: #f4cfa2;  --accent-tint04: #f6dbb9;  --accent-tint05: #f9e7d0;  --accent-tint06: #fcf3e7;  /* fontFamilies */
+  --spoqa-neo: 'Spoqa Han Sans Neo';  /* boxShadow */
+  --shadow-header: 0px 2px 2px 0px #00000029;  --shadow-big-box: 0px 3px 6px -4px #0000001f, 0px 6px 16px 0px #00000014, 0px 9px 28px 8px #0000000d;  }

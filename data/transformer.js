@@ -16,7 +16,7 @@ let result = `:root {\n  `;
     result += `/* ${v} */\n  ${attrs[v]}`;
   });
   result += '}';
-  writeFile('./src/global-style.css', result);
+  writeFile('./styles/variables.css', result);
   //   exec('npm run lint-style', (err, stdout, stderr) => {
   //     console.log('stdout: ' + stdout);
   //     console.log('stderr: ' + stderr);
